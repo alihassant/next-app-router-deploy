@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 
 export function Hero({ count }) {
@@ -52,12 +53,12 @@ export function Hero({ count }) {
           </div>
         </div>
         <div className="relative w-full h-64 sm:h-72 md:h-96 hidden lg:block lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2 lg:h-full">
-          <img
+          <Image
             className="absolute inset-0 w-full h-full object-cover"
             src="/cover.png"
             alt=""
           />
-          <img
+          <Image
             className="absolute w-52 left-96 -top-14 inset-0 object-cover"
             src="https://thrangra.sirv.com/cl.png"
             alt=""
