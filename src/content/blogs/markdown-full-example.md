@@ -7,13 +7,6 @@ coverImage: https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=r
 date: "2022-05-20"
 ---
 
-**Advertisement :)**
-
-- **[babelfish](https://github.com/nodeca/babelfish/)** - developer friendly
-  i18n with plurals support and easy syntax.
-
-You will like those projects!
-
 # h1 Heading 8-)
 
 ## h2 Heading
